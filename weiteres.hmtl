@@ -1,0 +1,761 @@
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="./css/style.css"/>
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="./css/style.css"/>
+<header id="i1rr" class="header-banner">
+  <div id="ipg7" class="container-width">
+    <div id="it6n" class="logo-container">
+      <div id="imf3" class="logo">WEITERES
+      </div>
+    </div>
+    <nav id="il3g" class="menu">
+      <div id="itwwhb" class="menu-item">
+        <a href="https://reisewurst.github.io/weiteres" id="ihzipk" class="link">WEITERES</a>
+      </div>
+      <div id="iqgnut" class="menu-item">
+        <a href="https://reisewurst.github.io/staendesystem" id="igj7ce" class="link">STÄNDESYSTEM</a>
+      </div>
+      <div id="ieymo1" class="menu-item">
+        <a href="https://reisewurst.github.io/ueber" id="ijeq93" class="link">ÜBER</a>
+      </div>
+      <div id="iatg8m" class="menu-item">
+        <a href="https://reisewurst.github.io/" id="it4j32" class="link">START</a>
+      </div>
+    </nav>
+    <div id="id6wy" class="clearfix">
+    </div>
+    <div id="igz6s" class="lead-title">Weiteres.
+      <br draggable="true"/>
+    </div>
+    <div id="iz12x" class="sub-lead-title">Oise, oise, oise ko do gfundn wean.
+      <br/>
+    </div>
+  </div>
+</header>
+<section id="iqrf7" class="flex-sect">
+  <div class="container-width">
+    <div id="i1f47" class="flex-title">WICHTIGE DOKUMENTE &amp; RICHTLIENEN
+      <br draggable="true" data-highlightable="1" id="ijfik"/>
+    </div>
+    <div class="cards" id="ijagh">
+      <div class="card" id="i4fdh">
+        <img src="https://raw.githubusercontent.com/Reisewurst/reisewurst.github.io/main/img/woast-schos-naiste-logo2.png" id="i2a4pb"/>
+        <div class="card-title" id="i92ccs">Daonload:
+        </div>
+        <div class="card-title" id="i9zxtf">
+          <div>-
+            <a href="https://raw.githubusercontent.com/Reisewurst/reisewurst.github.io/main/src/Woast%20schos%20naiste%201.pdf" id="ia8c0l" class="link gjs-selected">Ausgabe 1, PDF</a>
+          </div>
+          <div>-
+            <a href="https://raw.githubusercontent.com/Reisewurst/reisewurst.github.io/main/src/Woast%20schos%20naiste%201.pdf" class="link" id="isp7lt">Ausgabe 2, PDF</a>
+            <br/>
+          </div>
+        </div>
+      </div>
+      <div class="card" id="i8m47">
+        <div id="io49i" class="card-header ch3">
+        </div>
+        <div class="card-body" id="ixf0p">
+          <div id="ill7z" class="card-title">Unsere schene Heimat
+          </div>
+          <div id="i9qii" class="card-sub-title">bewahren.
+          </div>
+          <div id="i73ph" class="card-desc">Do sigt ma unsere Schene Heimat. Des is ibigat da Fritzl, der hat naili Urlaub gmocht.
+          </div>
+        </div>
+      </div>
+      <div class="card" id="inetvj">
+        <div class="card-header ch4" id="im5hhq">
+          <img src="https://vignette.wikia.nocookie.net/nyttland/images/2/2e/St%C3%A4ndesystem_Nyttlands.jpg/revision/latest/scale-to-width-down/400?cb=20180610135737&path-prefix=de" id="ilvfei"/>
+        </div>
+        <div class="card-body">
+          <div class="card-title">Unser Ständesystem
+          </div>
+          <div class="card-sub-title">überall auf der Welt etablieren
+          </div>
+          <div class="card-desc">Das System ist ausgeklügelt und kann auf alle Lebenssituationen angewendet werden und bringt Ordnung in die Welt. Das oben ist übrigens der Jarl.
+            <br/>
+          </div>
+        </div>
+      </div>
+      <div class="card" id="iffuc">
+        <div id="i82dx" class="card-header ch5">
+          <img id="idxrrv" src="https://raw.githubusercontent.com/Reisewurst/reisewurst.github.io/main/img/gaudi-server-banner.png"/>
+        </div>
+        <div class="card-body">
+          <div id="ilzmx" class="card-title">Unterhaltung für alle
+          </div>
+          <div id="i72wj" class="card-sub-title">Unser Discord-Server
+          </div>
+          <div id="ighuz" class="card-desc">Der Gaudi-Server bringt Unterhaltung und Spaß für jeden. Jedes Mitglied der Harlemsekte hat freien Zugang.
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div id="imfkg" class="card-header ch6">
+          <img id="iwo649" src="https://raw.githubusercontent.com/Reisewurst/reisewurst.github.io/main/img/woast-schos-naiste-logo.png"/>
+        </div>
+        <div class="card-body">
+          <div id="iummn" class="card-title">Nachrichten für alle.
+          </div>
+          <div id="ijuag" class="card-sub-title">Unsere Zeitung.
+          </div>
+          <div id="i86y9" class="card-desc">Die &quot;Woast schos naiste&quot; berichtet stets über die aktuellen Nachrichten aus aller Welt und dem neuen Gspusi. Immer aktuell.
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="cards" id="ikudnz">
+      <div class="card" id="iidddi">
+        <img src="https://raw.githubusercontent.com/Reisewurst/reisewurst.github.io/main/img/tagesablauf-logo.png" id="ik982f"/>
+        <div class="card-title" id="i26h45">
+          <b>Tagesablauf der meisten Harleminen:
+          </b>
+          <br/>
+        </div>
+        <div class="card-title" id="i5tpfw">7.00: Wecker
+          <br/>7.00: Aufstehen
+          <br/>7.00-7.10: Klamotten anziehen
+          <br/>7.10-7.15: Wuchtbrummen (Syonym von Zähne) Schrubben
+          <br/>7.15-7.16: Antlitz putzen
+          <br/>7.16-7.17: Fratze einschmieren
+          <br/>7.17-7.24: Zerialien schmausen
+          <br/>     -10 Löffel Zerialien mit Schmiere (Synonym von Molke)
+          <br/>     -mit einem Schöpferd
+          <br/>     -1 Stulle mit Streichfett und Bienenkotze
+          <br/>7.24-7.35: Morgendlicher Gewaltmarsch: 1,5 Kilometer
+          <br/>7.35: In die Tratsche (Synonym von Talk) gehen
+          <br/>Ab 8.00: Penne-Aufgaben erledigen
+          <br/>8:45:30: Auf den Orkus (Syonym für Klo) gehen
+          <br/>10:15:30: Auf den Orkus gehen
+          <br/>12:05:30: Auf den Orkus
+          <br/>12:50: Mittagessen
+          <br/>     - Eine Terine (Syonym für Schüssel) Heuhüpferschlack (Synonym von Ha-
+          <br/>       fergrütze) mit der Forke (Syonym von Gabel)
+          <br/>     - Gänsewein (Syonym von Wasser) mit einem Trinkschwänker (Syonym von
+          <br/>       Glas) süffeln (Syonym von Trinken)
+          <br/>13:05: Riemenzeug (Syonym von Geschirr) frottieren (Syonym abwaschen)
+          <br/>13:05-14:35: Eine Heinepofe (Syonym von Mittagsschlaf)
+          <br/>14:35-15:20: Eine Lustfahrt (Synonym von Spaziergang) machen
+          <br/>15:20: Wieder in die Stenke (Synonym für Talk) gehen
+          <br/>16:00: Auf die Klosette gehen
+          <br/>18:00-18:25: Serenadenvöllerei (Synonym für Abendessen) zu sich nehmen
+          <br/>18:25-18:30: Borte (Syonym von Zähne) schrubben
+          <br/>18:30-18:45: Sich brausieren (Syonym von Duschen)
+          <br/>18:45-18:50: Die Höhen fallen lassen (Syonym von umziehen)
+          <br/>18:50-19:00: Ein Opus (Syononym von Buch) erpressen (Synonym von lesen)
+          <br/>19:00: Ratzezeit (Syonym von Schlafenszeit)
+          <br/>
+          <br/>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row" id="ifl896">
+  </div>
+  <div class="row">
+  </div>
+</section>
+<section id="iq2cso" class="bdg-sect">
+  <h1 id="ifbo9k" class="bdg-title">Unsere Hauptanhänger:innen
+    <br/>
+  </h1>
+  <div class="container-width">
+    <div id="ikc51h" class="badges">
+      <div class="badge">
+        <div id="imkndk" class="badge-header">
+        </div>
+        <img src="https://raw.githubusercontent.com/Reisewurst/reisewurst.github.io/main/img/pb-harlem.png" id="ildlrh" class="badge-avatar"/>
+        <div class="badge-body">
+          <div id="iaapls" class="badge-name">Harlem
+            <br/>
+          </div>
+          <div id="izvfri" class="badge-role">Sündenbock
+          </div>
+          <div id="ito6ig" class="badge-desc">Unser Liebster. Auf ihn wird alles abgelassen. Stinkt und mog Pusteblumen.
+            <br/>
+          </div>
+        </div>
+        <div class="badge-foot">
+          <span class="badge-link">f</span>
+          <span class="badge-link">t</span>
+          <span class="badge-link">ln</span>
+        </div>
+      </div>
+      <div id="i1y9rk" class="badge">
+        <div class="badge-header">
+        </div>
+        <img src="https://raw.githubusercontent.com/Reisewurst/reisewurst.github.io/main/img/pb-pflanzl2.jpg" id="iwciev" class="badge-avatar"/>
+        <div class="badge-body">
+          <div id="iia5q9" class="badge-name">Franz Baumgartner
+            <br/>
+          </div>
+          <div id="ihboup" class="badge-role">Großmeister
+          </div>
+          <div id="ipvlct" class="badge-desc">
+            <div>So a liaba. Mag am Liebsten Bräsl- und Pfiffkas. Eine Flaute ist auch immer da.
+            </div>
+          </div>
+        </div>
+        <div class="badge-foot">
+          <span class="badge-link">f</span>
+          <span class="badge-link">t</span>
+          <span class="badge-link">ln</span>
+        </div>
+      </div>
+      <div id="i8963r" class="badge">
+        <div id="iuryzl" class="badge-header">
+        </div>
+        <img src="https://raw.githubusercontent.com/Reisewurst/reisewurst.github.io/main/img/pb-tuba.jpg" id="i9hrli" class="badge-avatar"/>
+        <div class="badge-body">
+          <div id="in8arr" class="badge-name">Die Dobä
+            <br/>
+          </div>
+          <div id="irdbsr" class="badge-role">Rasurklingenexpertin
+          </div>
+          <div id="ivb8ew" class="badge-desc">Wenn es um Fachfragen geht, steht immer die Dobä zur Verfügung. In ihrer Freizeit agiert sie als DJ, ihr beliebtestes Werk ist &quot;Harlem du Notgeiler feat. S3nex&quot;.
+          </div>
+        </div>
+        <div class="badge-foot">
+          <span class="badge-link">f</span>
+          <span class="badge-link">t</span>
+          <span class="badge-link">ln</span>
+        </div>
+      </div>
+      <div id="iw6pva" class="badge">
+        <div id="ichn1k" class="badge-header">
+        </div>
+        <img src="https://raw.githubusercontent.com/Reisewurst/reisewurst.github.io/main/img/pb-dassl.jpg" id="ih74na" class="badge-avatar"/>
+        <div class="badge-body">
+          <div id="ikl9f6" class="badge-name">Daisy Dobias
+            <br/>
+          </div>
+          <div id="iaq6i1" class="badge-role">Chefredakteur und Dobensüchtiger auf Entzug
+            <br/>
+          </div>
+          <div id="itw36j" class="badge-desc">Beep Boop. Boop beep? Wird gerne mal vom ra0005 angerufen und hasst es wie die Pest, mit seinem vollen Namen angesprochen zu werden.
+            <br/>
+          </div>
+        </div>
+        <div class="badge-foot">
+          <span class="badge-link">f</span>
+          <span class="badge-link">t</span>
+          <span class="badge-link">ln</span>
+        </div>
+      </div>
+      <div id="iycq74" class="badge">
+        <div id="iqyxyg" class="badge-header">
+        </div>
+        <img src="https://remscheid.de/img/logo.jpg" id="ici63j" class="badge-avatar"/>
+        <div id="ipmu1n" class="badge-body">
+          <div id="ie8uyh" class="badge-name">Remsch &amp; Frennen
+            <br/>
+          </div>
+          <div id="in5wpp" class="badge-role">Deppen vom Dienst
+            <br/>
+          </div>
+          <div id="i3k9my" class="badge-desc">Immer im Talk, nerven aber nur und verurteilen den armen Dassl für&#039;s laut sein. Bitte nicht mit Spitznamen ansprechen.
+            <br/>
+          </div>
+        </div>
+        <div class="badge-foot">
+          <span class="badge-link">f</span>
+          <span class="badge-link">t</span>
+          <span class="badge-link">ln</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<footer id="ivwhp1" class="footer-under">
+  <div class="container-width">
+    <div id="i0oc0w" class="footer-container">
+      <div id="i2pf3q" class="foot-lists">
+        <div class="foot-list">
+          <div id="izcsla" class="foot-list-title">Über uns
+            <br/>
+          </div>
+          <div id="iaqoeh" class="foot-list-item">
+            <a href="mailto:harlemsekte@reisewurst.anonaddy.com" id="ihkwru" class="link">Kontakt
+            </a>
+          </div>
+          <div id="i3lcgl" class="foot-list-item">
+            <a href="https://reisewurst.github.io/ueber" id="ib9z4k" class="link">Über uns</a>
+            <br/>
+          </div>
+          <div id="iqe863" class="foot-list-item">
+            <a href="https://reisewurst.github.io/loremipsum" id="i4ozmb" class="link">Lorem Ipsum-Text
+            </a>
+          </div>
+        </div>
+        <div class="foot-list">
+          <div id="ihytbw" class="foot-list-title">Mehr von uns
+            <br/>
+          </div>
+          <div id="ibmvs2" class="foot-list-item">
+            <a href="https://github.com/Reisewurst" id="i9gm9e" class="link">GitHub</a>
+            <br/>
+          </div>
+          <div title="https://reisewurst.github.io/suendenrechner" id="ix4jt1" class="foot-list-item">
+            <div>
+              <a href="reisewurst.github.io/staendesystem" id="invfw6" class="link">Ständesystem</a>
+            </div>
+          </div>
+        </div>
+        <div class="clearfix">
+        </div>
+      </div>
+      <div class="form-sub">
+        <div class="foot-form-cont">
+          <div id="i6lkit" class="foot-form-title">Newsletter
+          </div>
+          <div id="icp1ty" class="foot-form-desc">Die Yippe: I glab des Formular gäht ned
+            <br/>
+          </div>
+          <input name="name" placeholder="Name" id="iel5te" class="sub-input"/>
+          <input name="email" placeholder="Email" class="sub-input"/>
+          <button type="button" id="i8uyrs" class="sub-btn">Submit</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copyright">
+    <div class="container-width">
+      <div class="foot-social-btns">facebook twitter linkedin mail
+      </div>
+      <div class="clearfix">
+      </div>
+    </div>
+  </div>
+</footer>
+<style> *{
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.clearfix{
+  clear:both;
+}
+.header-banner{
+  padding-top:35px;
+  padding-bottom:100px;
+  color:#ffffff;
+  font-family:Helvetica, serif;
+  font-weight:100;
+  background-image:url("https://grapesjs.com/img/bg-gr-v.png"), url("https://grapesjs.com/img/work-desk.jpg");
+  background-attachment:scroll, scroll;
+  background-position:left top, center center;
+  background-repeat:repeat-y, no-repeat;
+  background-size:contain, cover;
+}
+.container-width{
+  width:90%;
+  max-width:1150px;
+  margin:0 auto;
+}
+.logo-container{
+  float:left;
+  width:50%;
+}
+.logo{
+  background-color:#fff;
+  border-radius:5px;
+  width:130px;
+  padding:10px;
+  min-height:30px;
+  text-align:center;
+  line-height:30px;
+  color:#4d114f;
+  font-size:23px;
+}
+.menu{
+  float:right;
+  width:50%;
+}
+.menu-item{
+  float:right;
+  font-size:15px;
+  color:#eee;
+  width:130px;
+  padding:10px;
+  min-height:50px;
+  text-align:center;
+  line-height:30px;
+  font-weight:400;
+}
+.lead-title{
+  margin:150px 0 30px 0;
+  font-size:40px;
+}
+.sub-lead-title{
+  max-width:650px;
+  line-height:30px;
+  margin-bottom:30px;
+  color:#c6c6c6;
+}
+.flex-sect{
+  background-color:#fafafa;
+  padding:100px 0;
+  font-family:Helvetica, serif;
+}
+.flex-title{
+  margin-bottom:15px;
+  font-size:2em;
+  text-align:center;
+  font-weight:700;
+  color:#555;
+  padding:5px;
+}
+.cards{
+  padding:20px 0;
+  display:flex;
+  justify-content:space-around;
+  flex-flow:wrap;
+}
+.card{
+  background-color:white;
+  height:300px;
+  width:300px;
+  margin-bottom:30px;
+  box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.2);
+  border-radius:2px;
+  transition:all 0.5s ease;
+  font-weight:100;
+  overflow:hidden;
+}
+.card:hover{
+  margin-top:-5px;
+  box-shadow:0 20px 30px 0 rgba(0, 0, 0, 0.2);
+}
+.card-header{
+  height:155px;
+  background-image:url("https://placehold.it/350x250/78c5d6/fff/image1.jpg");
+  background-size:cover;
+  background-position:center center;
+}
+.card-header.ch2{
+  background-image:url("https://placehold.it/350x250/459ba8/fff/image2.jpg");
+}
+.card-header.ch3{
+  background-image:url("https://placehold.it/350x250/79c267/fff/image3.jpg");
+}
+.card-header.ch4{
+  background-image:url("https://placehold.it/350x250/c5d647/fff/image4.jpg");
+}
+.card-header.ch5{
+  background-image:url("https://placehold.it/350x250/f28c33/fff/image5.jpg");
+}
+.card-header.ch6{
+  background-image:url("https://placehold.it/350x250/e868a2/fff/image6.jpg");
+}
+.card-body{
+  padding:15px 15px 5px 15px;
+  color:#555;
+}
+.card-title{
+  font-size:1.4em;
+  margin-bottom:5px;
+}
+.card-sub-title{
+  color:#b3b3b3;
+  font-size:1em;
+  margin-bottom:15px;
+}
+.card-desc{
+  font-size:0.85rem;
+  line-height:17px;
+}
+.footer-under{
+  background-color:#312833;
+  padding-bottom:100px;
+  padding-top:100px;
+  min-height:500px;
+  color:#eee;
+  position:relative;
+  font-weight:100;
+  font-family:Helvetica,serif;
+}
+.copyright{
+  background-color:rgba(0, 0, 0, 0.15);
+  color:rgba(238, 238, 238, 0.5);
+  bottom:0;
+  padding:1em 0;
+  position:absolute;
+  width:100%;
+  font-size:0.75em;
+}
+.foot-social-btns{
+  display:none;
+  float:right;
+  width:50%;
+  text-align:right;
+  padding:5px 0;
+}
+.footer-container{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:stretch;
+  justify-content:space-around;
+}
+.foot-list{
+  float:left;
+  width:200px;
+}
+.foot-list-title{
+  font-weight:400;
+  margin-bottom:10px;
+  padding:0.5em 0;
+}
+.foot-list-item{
+  color:rgba(238, 238, 238, 0.8);
+  font-size:0.8em;
+  padding:0.5em 0;
+}
+.foot-list-item:hover{
+  color:rgba(238, 238, 238, 1);
+}
+.foot-form-cont{
+  width:300px;
+  float:right;
+}
+.foot-form-title{
+  color:rgba(255,255,255,0.75);
+  font-weight:400;
+  margin-bottom:10px;
+  padding:0.5em 0;
+  text-align:right;
+  font-size:2em;
+}
+.foot-form-desc{
+  font-size:0.8em;
+  color:rgba(255,255,255,0.55);
+  line-height:20px;
+  text-align:right;
+  margin-bottom:15px;
+}
+.sub-input{
+  width:100%;
+  margin-bottom:15px;
+  padding:7px 10px;
+  border-radius:2px;
+  color:#fff;
+  background-color:#554c57;
+  border:none;
+}
+.sub-btn{
+  width:100%;
+  margin:15px 0;
+  background-color:#785580;
+  border:none;
+  color:#fff;
+  border-radius:2px;
+  padding:7px 10px;
+  font-size:1em;
+  cursor:pointer;
+}
+.sub-btn:hover{
+  background-color:#91699a;
+}
+.sub-btn:active{
+  background-color:#573f5c;
+}
+.bdg-sect{
+  padding-top:100px;
+  padding-bottom:100px;
+  font-family:Helvetica, serif;
+  background-color:#fafafa;
+}
+.bdg-title{
+  text-align:center;
+  font-size:2em;
+  margin-bottom:55px;
+  color:#555555;
+}
+.badges{
+  padding:20px;
+  display:flex;
+  justify-content:space-around;
+  align-items:flex-start;
+  flex-wrap:wrap;
+}
+.badge{
+  width:290px;
+  font-family:Helvetica, serif;
+  background-color:white;
+  margin-bottom:30px;
+  box-shadow:0 2px 2px 0 rgba(0, 0, 0, 0.2);
+  border-radius:3px;
+  font-weight:100;
+  overflow:hidden;
+  text-align:center;
+}
+.badge-header{
+  height:115px;
+  background-image:url("https://grapesjs.com/img/bg-gr-v.png"), url("https://grapesjs.com/img/work-desk.jpg");
+  background-position:left top, center center;
+  background-attachment:scroll, fixed;
+  overflow:hidden;
+}
+.badge-name{
+  font-size:1.4em;
+  margin-bottom:5px;
+}
+.badge-role{
+  color:#777;
+  font-size:1em;
+  margin-bottom:25px;
+}
+.badge-desc{
+  font-size:0.85rem;
+  line-height:20px;
+}
+.badge-avatar{
+  width:100px;
+  height:100px;
+  border-radius:100%;
+  border:5px solid #fff;
+  box-shadow:0 1px 1px 0 rgba(0, 0, 0, 0.2);
+  margin-top:-75px;
+  position:relative;
+}
+.badge-body{
+  margin:35px 10px;
+}
+.badge-foot{
+  color:#fff;
+  background-color:#a290a5;
+  padding-top:13px;
+  padding-bottom:13px;
+  display:flex;
+  justify-content:center;
+}
+.badge-link{
+  height:35px;
+  width:35px;
+  line-height:35px;
+  font-weight:700;
+  background-color:#fff;
+  color:#a290a5;
+  display:block;
+  border-radius:100%;
+  margin:0 10px;
+}
+*{
+  box-sizing:border-box;
+}
+body{
+  margin:0;
+}
+.row{
+  display:flex;
+  justify-content:flex-start;
+  align-items:stretch;
+  flex-wrap:nowrap;
+  padding:10px;
+}
+#ijeq93{
+  color:#ffffff;
+  text-decoration:none;
+}
+#it4j32{
+  color:#ffffff;
+  text-decoration:none;
+}
+#igj7ce{
+  color:#ffffff;
+  text-decoration:none;
+}
+#ihzipk{
+  color:#ffffff;
+  text-decoration:none;
+}
+#idxrrv{
+  width:301px;
+  height:157px;
+}
+#iwo649{
+  width:300px;
+  height:158px;
+}
+#ihkwru{
+  color:#ffffff;
+  text-decoration:none;
+}
+#ib9z4k{
+  color:#ffffff;
+  text-decoration:none;
+}
+#i4ozmb{
+  color:#ffffff;
+  text-decoration:none;
+}
+#i9gm9e{
+  color:#ffffff;
+  text-decoration:none;
+}
+#invfw6{
+  color:#ffffff;
+  text-decoration:none;
+}
+#i4fdh{
+  margin:0 0 0 0;
+  width:500px;
+}
+#i2a4pb{
+  width:502px;
+  height:106.30000000000001px;
+}
+#i92ccs{
+  margin:20px 20px 5px 20px;
+  color:rgb(85, 85, 85);
+}
+#i9zxtf{
+  margin:0 20px 5px 30px;
+  color:rgb(85, 85, 85);
+  font-size:16.4px;
+}
+#i8m47{
+  width:500px;
+}
+#ilvfei{
+  width:302px;
+  height:154px;
+}
+#ik982f{
+  width:1066px;
+  height:106.30000000000001px;
+}
+#i26h45{
+  margin:20px 20px 5px 20px;
+  color:rgb(85, 85, 85);
+  font-weight:900;
+}
+#iidddi{
+  margin:0 0 0 0;
+  width:1066px;
+  height:1166px;
+}
+#i5tpfw{
+  margin:20px 20px 5px 20px;
+  color:rgb(85, 85, 85);
+  font-size:18.4px;
+}
+@media (max-width: 768px){
+  .foot-form-cont{
+    width:400px;
+  }
+  .foot-form-title{
+    width:autopx;
+  }
+  .row{
+    flex-wrap:wrap;
+  }
+}
+@media (max-width: 480px){
+  .foot-lists{
+    display:none;
+  }
+}
+
+</style>
